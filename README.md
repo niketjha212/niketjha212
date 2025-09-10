@@ -23,7 +23,8 @@
 
 ## 📖 Currently Learning  
 - 📊 Advanced SQL for Analytics  
-- 📉 Power BI storytelling & DAX functions  
+- 📉 Power BI storytelling & DAX functions
+- 📉 AI Tools for optimizing works 
 - 🤖 Machine Learning fundamentals  
 - 🖼️ Tableau for interactive dashboards  
 
