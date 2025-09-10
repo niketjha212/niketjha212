@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niket Jha  
+# Hi, I'm Niket Jha  
 **Aspiring Data Analyst | Excel, Python, Power BI, Tableau, SQL | Transitioning from Infrastructure Projects to Data-Driven Decision-Making | Turning Raw Data into Decision-Driven Insights**  
 
 🚀 Passionate about **Data Analytics | Python | SQL | Power BI | Machine Learning**  
