@@ -32,5 +32,5 @@
 
 ## 📫 Connect with Me  
 - 📧 Email: [niketjha212@gmail.com](mailto:niketjha212@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/niketjha02](https://www.linkedin.com/in/niketjha02)  
-- 🐙 GitHub: [github.com/niketjha02](https://github.com/niketjha02)  
+- 💼 LinkedIn: [linkedin.com/in/niketjha02](https://www.linkedin.com/in/niketjha212)  
+- 🐙 GitHub: [github.com/niketjha02](https://github.com/niketjha212)  
