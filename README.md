@@ -17,8 +17,7 @@
 
 ## 📌 Projects  
 - 💰 **Expense Management System** → Full-stack app using **Python, Streamlit, FastAPI, MySQL**  
-- 📈 **Data Analytics Case Studies** → SQL, Excel & Power BI dashboards with insights  
-- 🤖 **Machine Learning Mini Projects** → Predictive models for real-world datasets  
+- 📈 **Data Analytics Case Studies** → SQL, Excel & Power BI dashboards with insights    
 
 ---
 
