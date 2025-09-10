@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Niket Jha  
+**Aspiring Data Analyst | Excel, Python, Power BI, Tableau, SQL | Transitioning from Infrastructure Projects to Data-Driven Decision-Making | Turning Raw Data into Decision-Driven Insights**  
 
-<!--
-**niketjha02/niketjha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Data Analytics | Python | SQL | Power BI | Machine Learning**  
+🔭 Transitioning from **Infrastructure Project Execution** to **Data Analytics**  
+📊 Love turning raw data into meaningful insights and business solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Languages:** Python, SQL  
+- **Databases:** MySQL, SQLite  
+- **Visualization:** Power BI, Excel, Tableau  
+- **Frameworks & Tools:** Streamlit, FastAPI, Git, PyCharm  
+
+---
+
+## 📌 Projects  
+- 💰 **Expense Management System** → Full-stack app using **Python, Streamlit, FastAPI, MySQL**  
+- 📈 **Data Analytics Case Studies** → SQL, Excel & Power BI dashboards with insights  
+- 🤖 **Machine Learning Mini Projects** → Predictive models for real-world datasets  
+
+---
+
+## 📖 Currently Learning  
+- 📊 Advanced SQL for Analytics  
+- 📉 Power BI storytelling & DAX functions  
+- 🤖 Machine Learning fundamentals  
+- 🖼️ Tableau for interactive dashboards  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: [niketjha212@gmail.com](mailto:niketjha212@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/niketjha02](https://www.linkedin.com/in/niketjha02)  
+- 🐙 GitHub: [github.com/niketjha02](https://github.com/niketjha02)  
